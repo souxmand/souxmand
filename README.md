@@ -16,7 +16,7 @@
  <h2>💕GitHub Stats</h2> 
 <div>
  <a href="https://github.com/souxmand"/>
- <img height="190em" width="1000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souxmand&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souxmand&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/><br>
  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=souxmand&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true"/>
  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=souxmand&theme=monokai&hide_border=true"/>
 </div>
